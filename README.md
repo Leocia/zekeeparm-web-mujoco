@@ -1,6 +1,6 @@
 # Zekeeparm 浏览器机械臂仿真
 
-在线演示：https://leo66600.github.io/zekeeparm-web-mujoco/
+在线演示：https://Leocia.github.io/zekeeparm-web-mujoco/
 
 本仓库仅包含 Vite 构建生成的静态网页、MuJoCo WASM 和仿真模型。网页仅运行浏览器仿真，不连接 ROS、串口或真实机械臂。
 
